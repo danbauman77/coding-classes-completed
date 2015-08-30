@@ -17,3 +17,4 @@ And those on my list
 <p>edX: Introduction to R Programming</p>
 <p>edX: Introduction to Computer Science and Programming Using Python</p>
 <p>Data Visualization and Infographics with D3.js</p>
+<p>edX: Explore Statistics with R</p>
