@@ -1,19 +1,19 @@
 A list of online coding classes I have completed
 ===================================
-Codecademy: Learn the Command Line
-Codecademy: Make a Website
+<br>Codecademy: Learn the Command Line</br>
+<br>Codecademy: Make a Website</br>
 
 And those I'm working through
 ===================================
-Codecademy: HTML & CSS
-Codecademy: Make an Interactive Website
-Codecademy: Python
+<br>Codecademy: HTML & CSS</br>
+<br>Codecademy: Make an Interactive Website</br>
+<br>Codecademy: Python</br>
 
 And those on my list
 ===================================
-MITx - Introduction to Computer Science and Programming (MITx: 6.00.1x)
-HarvardX - Introduction to Computer Science (CS50x)
-Udacity CS253 - Web Application Engineering (CS253)
-edX: Introduction to R Programming
-edX: Introduction to Computer Science and Programming Using Python
-Data Visualization and Infographics with D3.js
+<br>MITx - Introduction to Computer Science and Programming (MITx: 6.00.1x)</br>
+<br>HarvardX - Introduction to Computer Science (CS50x)</br>
+<br>Udacity CS253 - Web Application Engineering (CS253)</br>
+<br>edX: Introduction to R Programming</br>
+<br>edX: Introduction to Computer Science and Programming Using Python</br>
+<br>Data Visualization and Infographics with D3.js</br>
